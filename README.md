@@ -18,7 +18,7 @@ A teacher's budget is their salary.\
 A student's budget is the negative value of their tuition fee.
 
 ## Tasks:
-***Design a UML class diagram***: Create a UML class diagram that illustrates the classes, interfaces, and relationships involved in the system.
+***Design a UML class diagram***: Create a UML class diagram that illustrates the classes, interfaces, and relationships involved in the system.\
 ***Implement the system in Java***: Write Java code that implements the design, adhering to the Composite Design Pattern.
 
 ***Create a client program***: Write a client program that demonstrates the functionality of the system by:
@@ -27,3 +27,6 @@ A student's budget is the negative value of their tuition fee.
 - Displaying the details of a College.
 - Calculating and displaying the total number of students in a College.
 - Calculating and displaying the total budget of a College.
+
+
+![UML_CompositePattern](https://github.com/user-attachments/assets/6d0a57c4-f89e-412e-9287-adc27029bc1b)
